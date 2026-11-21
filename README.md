@@ -36,7 +36,7 @@ An exploratory healthcare data analysis project using Microsoft Excel to examine
 - Pivot Analysis: Analyzed the dataset using pivot tables. Made insightful charts for Organism-wise, Antibiotic-wise, Hospital unit-wise, Specimen type-wise susceptibility distribution percentage. Additionally, added charts for time-based analysis showing test volume yearly and quarterly.
 
 ## 7. Dashboard
-![Healthcare Data Analysis Dashboard](Synthetic_Antibiotic_Susceptibilty_Analysis_Dashboard.png)
+![Healthcare Data Analysis Dashboard](Synthetic_Antibiotic_Susceptibility_Analysis_Dashboard.png)
 
 ## 8. Key Insights
 - The overall resistance percentage was 45.78%.
